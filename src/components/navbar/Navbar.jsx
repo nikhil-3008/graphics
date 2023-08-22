@@ -2,7 +2,7 @@ import React from 'react'
 import './navbar.css'
 // import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo.png'
-import {  Link } from "react-router-dom";
+
 
 // const Menu = () => (
 //   <>
@@ -28,9 +28,9 @@ import {  Link } from "react-router-dom";
       <div className="navbar-links">
         <div className="navbar-links_logo">
           <img src={logo} alt="logo" />
-          <Link to="/"> 
+         
             <h1>Graphics</h1>
-          </Link>
+         
         </div>
       </div>
       
