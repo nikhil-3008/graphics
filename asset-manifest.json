@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/graphics/static/css/main.40a2fcd2.css",
-    "main.js": "/graphics/static/js/main.e49f319e.js",
+    "main.js": "/graphics/static/js/main.d3701595.js",
     "static/media/Thank You Poster.png": "/graphics/static/media/Thank You Poster.d1926b069ab6e4c8726d.png",
     "static/media/World Art Day (Poster).png": "/graphics/static/media/World Art Day (Poster).511cd1fabda5f1e53993.png",
     "static/media/Party Club Poster.png": "/graphics/static/media/Party Club Poster.7c1f10506c12f65f2b50.png",
@@ -26,10 +26,10 @@
     "static/media/slick.woff": "/graphics/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/graphics/index.html",
     "main.40a2fcd2.css.map": "/graphics/static/css/main.40a2fcd2.css.map",
-    "main.e49f319e.js.map": "/graphics/static/js/main.e49f319e.js.map"
+    "main.d3701595.js.map": "/graphics/static/js/main.d3701595.js.map"
   },
   "entrypoints": [
     "static/css/main.40a2fcd2.css",
-    "static/js/main.e49f319e.js"
+    "static/js/main.d3701595.js"
   ]
 }
