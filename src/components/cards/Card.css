@@ -1,0 +1,64 @@
+
+  /* Common styles for both desktop and mobile */
+  .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .card {
+    transform-style: preserve-3d;
+    position: relative;
+    /* border-radius: 20px; */
+    width: 200px;
+  
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    /* background: linear-gradient(
+      25deg,
+      rgba(75, 53, 118, 1) 0%,
+      rgba(248, 177, 60, 1) 86%
+    ); */
+    transition: all 0.1s ease;
+  }
+  
+  .sneaaker-img {
+    position: relative;
+    max-width: 100%;   /* Ensure images fit within their grid cell */
+    height: auto;      /* Maintain image aspect ratio */
+    object-fit: cover;
+    border-radius: 20px; /* Add border radius to make the image fit into the card */
+    transition: all 0.5s ease;
+  }
+  
+  
+  /* For mobile devices */
+  @media (max-width: 768px) {
+    .container {
+      display: flex;
+      flex-wrap: wrap; /* Stack cards vertically on smaller screens */
+     flex-direction: row;
+     gap: 10px;
+      width: 90%;
+      
+    }
+  
+    .card {
+     
+      width: 45%; /* Take full width of the container on mobile */
+      height: auto; /* Adjust the height based on content */
+      margin: 0 auto; /* Center the card horizontally within the container */
+    }
+  
+    .sneaaker-img {
+      border-radius: 20px; /* Add border radius to make the image fit into the card */
+      width: 100%;
+      object-fit: cover;
+      border-radius: 20px; /* Add border radius to make the image fit into the card */
+      transition: all 0.5s ease;
+    }
+  }
+  

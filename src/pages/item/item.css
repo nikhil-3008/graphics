@@ -1,0 +1,43 @@
+/* Item.css */
+.image-detail-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.image-container {
+  flex: 1;
+  text-align: center;
+  width: 10%;
+}
+
+.image {
+  max-width: 50%;
+  height: auto;
+}
+
+.info-container {
+  flex: 1;
+  padding: 20px;
+  border-left: 1px solid #ccc;
+}
+
+.image-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.image-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.buy-button {
+  padding: 10px 20px;
+  background-color: #ca13d0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
