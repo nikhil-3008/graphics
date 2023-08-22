@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/graphics/static/css/main.40a2fcd2.css",
+    "main.js": "/graphics/static/js/main.798e86ca.js",
+    "static/media/Thank You Poster.png": "/graphics/static/media/Thank You Poster.d1926b069ab6e4c8726d.png",
+    "static/media/World Art Day (Poster).png": "/graphics/static/media/World Art Day (Poster).511cd1fabda5f1e53993.png",
+    "static/media/Party Club Poster.png": "/graphics/static/media/Party Club Poster.7c1f10506c12f65f2b50.png",
+    "static/media/Night Club Party.png": "/graphics/static/media/Night Club Party.2c4d9d8ffb9d4c75cf36.png",
+    "static/media/canva.png": "/graphics/static/media/canva.5177b6bce453abbf7efd.png",
+    "static/media/react.png": "/graphics/static/media/react.dbe560099784932a1b3f.png",
+    "static/media/blender.png": "/graphics/static/media/blender.b8b42ae7feabff2c419c.png",
+    "static/media/figma.png": "/graphics/static/media/figma.ae50c547b90fac264a08.png",
+    "static/media/shopping-cart.png": "/graphics/static/media/shopping-cart.1c99c5f2db335c1729aa.png",
+    "static/media/galery.png": "/graphics/static/media/galery.99ca3bc8080ad4e95cec.png",
+    "static/media/bids1.png": "/graphics/static/media/bids1.915c4163f419ea533a67.png",
+    "static/media/bids4.png": "/graphics/static/media/bids4.29928c92af9c501896ae.png",
+    "static/media/bids3.png": "/graphics/static/media/bids3.c22ef57bfbda53fc9d6d.png",
+    "static/media/bids8.png": "/graphics/static/media/bids8.3027bda8e2231afadf74.png",
+    "static/media/bids2.png": "/graphics/static/media/bids2.dcf1b08c4609c65284e2.png",
+    "static/media/bids7.png": "/graphics/static/media/bids7.02981185d801845de534.png",
+    "static/media/bids5.png": "/graphics/static/media/bids5.ea0733268793a2e99b15.png",
+    "static/media/bids6.png": "/graphics/static/media/bids6.e26d0d0c792347c35ca8.png",
+    "static/media/slick.svg": "/graphics/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/graphics/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/graphics/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/graphics/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/graphics/index.html",
+    "main.40a2fcd2.css.map": "/graphics/static/css/main.40a2fcd2.css.map",
+    "main.798e86ca.js.map": "/graphics/static/js/main.798e86ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a2fcd2.css",
+    "static/js/main.798e86ca.js"
+  ]
+}
