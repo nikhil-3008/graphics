@@ -25,5 +25,5 @@ Build the production version of your app:
 In your `package.json`, add a `"homepage"` field with your GitHub Pages URL:
 ```json
 "homepage": "https://your-username.github.io/your-username.github.io"
-7.npm run deploy
-link-https://github.com/nikhil-3008/graphics/
+npm run deploy
+link-https://nikhil-3008.github.io/graphics/
